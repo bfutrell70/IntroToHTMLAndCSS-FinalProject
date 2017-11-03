@@ -9,4 +9,13 @@
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-supersize {
+    font-size: 40pt !important;
 }
