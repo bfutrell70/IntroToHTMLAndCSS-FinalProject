@@ -1,8 +1,8 @@
 /* body { width: 980px;  align-content: center} */
 
-* {
+/* * {
     border: 1px solid red !important;
-}
+} */
 
 * {
     -webkit-box-sizing: border-box;
@@ -10,12 +10,33 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 
+hr {
+    border-width: 4px;
+}
+
+/* Heading row */
 .text-thin {
     font-weight: 100;
 }
 
 .text-supersize {
     font-size: 40pt !important;
+}
+
+.header-image {
+    margin-top: 15px;
+}
+
+/* Featured work  */
+
+.featured-work-title {
+    padding-left: 15px;
+    color: #bcbbbb;
+}
+
+.project-title {
+    font-size: 26pt;
 }
