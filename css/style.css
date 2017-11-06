@@ -24,7 +24,7 @@ hr {
 }
 
 .text-supersize {
-    font-size: 40pt !important;
+    font-size: 48pt !important;
 }
 
 .header-image {
@@ -35,9 +35,16 @@ hr {
 
 .featured-work-title {
     padding-left: 15px;
-    color: #bcbbbb;
 }
 
 .project-title {
     font-size: 26pt;
+}
+
+.lighter-color {
+  color: #bcbbbb;
+}
+
+.darker-color {
+  color: #747704;
 }
